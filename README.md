@@ -6,8 +6,7 @@ A list of recipes is displayed, where the user can search and view the recipe de
 
 ### Short
 The following tasks had to be accomplished:
-- create a content model and fill it with content in Contentful API
-- fetch data with the Contentful client
+- fetch data from a remote API
 - implement a search function for the recipe title
 - use React routing to navigate and NOT reload the page on content change
 
