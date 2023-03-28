@@ -1,7 +1,7 @@
 {
-  "name": "react-cookbook",
+  "name": "cookbook-client",
   "version": "0.1.0",
-  "homepage": "https://alfarrobeira.github.io/react-cookbook",
+  "homepage": "https://alfarrobeira.github.io/cookbook-client",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
