@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+.recipeListItem:hover {
+  background-color: #ffe9e5;
+}
